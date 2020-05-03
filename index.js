@@ -1,4 +1,4 @@
-function Image() {
+function Image () {
 } 
 
 Object.defineProperty(Image.prototype, 'naturalWidth', {
